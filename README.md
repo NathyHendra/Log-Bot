@@ -1,5 +1,5 @@
 # Log-Bot
-Serendia Squad ~ Pxve Gelişmiş Log Bot
+**Serendia Squad ~ Pxve Gelişmiş Log Bot**
 
 Öncelikle Merhabalar,
 
@@ -11,3 +11,14 @@ Serendia Squad ~ Pxve Gelişmiş Log Bot
 
 Tek Yapmanız Gereken!
 - `config.json` dosyasını kendinize göre ayarlamanız.
+```js
+{
+  "token": "",
+  "sahipler": "[]",
+  "embedColor": "#00FF0B",
+  "prefix": "!",
+  "logKanal": "",
+  "sesLogKanal": ""
+}
+```
+> Sahipleri neden ekleme gereği duydum bilmiyorum neyse pas geçin orayı 😂
