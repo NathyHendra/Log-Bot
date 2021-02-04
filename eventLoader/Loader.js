@@ -29,4 +29,5 @@ module.exports = client => {
   client.on("voiceStateUpdate", req("VoiceLog.js"));
 
   client.on("guildMemberUpdate", req("MemberUpdate.js"));
+
 };
