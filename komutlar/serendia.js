@@ -3,7 +3,6 @@ const config = require("../config.json");
 const Discord = require("discord.js");
 
 module.exports.run = (client, message, args) => {
-  let serendia = "https://discord.gg/serendia"
   const pxve = new Discord.MessageEmbed()
 
       .setAuthor(
