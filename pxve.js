@@ -10,8 +10,6 @@ const config = require("./config.json");
 
 require("./eventLoader/Loader.js")(client);
 
-const invites = {};
-
 const wait = require("util").promisify(setTimeout);
 
 client.commands = new Discord.Collection();
