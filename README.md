@@ -1,7 +1,8 @@
 # Log-Bot
 **Serendia Squad ~ Pxve Gelişmiş Log Bot**
 
-![img](https://cdn.discordapp.com/attachments/777057925356322827/806706160589340692/Serendia.png)
+![img](https://cdn.discordapp.com/attachments/
+<img src="https://cdn.discordapp.com/attachments/777057925356322827/806706160589340692/Serendia.png" alt="alt text" width="500"/>
 
 Öncelikle Merhabalar,
 
