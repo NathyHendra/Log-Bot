@@ -4,7 +4,7 @@
   "//3": "updating this file will download and update your packages",
   "name": "Pxve-log",
   "version": "0.0.1",
-  "description": "Serendia Squad icin...",
+  "description": "Serendia Squad Sunucusunda Gelen İsteğin Üzerine",
   "main": "pxve.js",
   "scripts": {
     "start": "node pxve.js"
