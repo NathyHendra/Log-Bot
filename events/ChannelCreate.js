@@ -37,3 +37,4 @@ module.exports = async channel => {
     );
   client.sendEmbed(logChannel, embed, false);
 };
+
