@@ -29,5 +29,7 @@ Tek Yapmanız Gereken!
 ```fix
 Parayla başkalarına yapmaya, satmaya veya kendi yapınızmış gibi davranış sergilemezsiniz diye umuyorum.
 ```
+[Sunucuya Katılmak İçin](https://discord.gg/serendi)
+
 
 ~ Bir arkadaşıma burdan teşekkür ediyorum o kendini biliyor.
